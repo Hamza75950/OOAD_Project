@@ -1,0 +1,7 @@
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\BusinessloginLayer\bin\Debug\BusinessloginLayer.dll
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\BusinessloginLayer\bin\Debug\BusinessloginLayer.pdb
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\BusinessloginLayer\obj\Debug\BusinessloginLayer.csprojResolveAssemblyReference.cache
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\BusinessloginLayer\obj\Debug\BusinessloginLayer.dll
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\BusinessloginLayer\obj\Debug\BusinessloginLayer.pdb
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\BusinessloginLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\BusinessloginLayer\bin\Debug\DataAccessLayer.pdb

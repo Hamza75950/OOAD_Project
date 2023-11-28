@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{A55B5CD9-7246-41E4-95E7-A7B7DBFBE920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessloginLayer", "BusinessloginLayer\BusinessloginLayer.csproj", "{C95A6D6B-C2FA-4E40-8CEE-5442342469F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{3ADA352F-7220-447E-8333-4176C08736C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55B5CD9-7246-41E4-95E7-A7B7DBFBE920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55B5CD9-7246-41E4-95E7-A7B7DBFBE920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55B5CD9-7246-41E4-95E7-A7B7DBFBE920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55B5CD9-7246-41E4-95E7-A7B7DBFBE920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95A6D6B-C2FA-4E40-8CEE-5442342469F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95A6D6B-C2FA-4E40-8CEE-5442342469F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95A6D6B-C2FA-4E40-8CEE-5442342469F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95A6D6B-C2FA-4E40-8CEE-5442342469F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADA352F-7220-447E-8333-4176C08736C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADA352F-7220-447E-8333-4176C08736C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADA352F-7220-447E-8333-4176C08736C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADA352F-7220-447E-8333-4176C08736C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

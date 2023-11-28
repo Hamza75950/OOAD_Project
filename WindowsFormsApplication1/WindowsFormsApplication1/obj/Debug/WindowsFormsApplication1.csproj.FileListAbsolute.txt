@@ -1,0 +1,13 @@
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frm_Patient.resources
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BusinessloginLayer.dll
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataAccessLayer.dll
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\BusinessloginLayer.pdb
+C:\Users\lab6\Desktop\65238\N-tier\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DataAccessLayer.pdb
