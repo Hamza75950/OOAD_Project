@@ -33,8 +33,6 @@ namespace WindowsFormsApplication1
             bll_patient obj = new bll_patient();
             obj.getting_values(txtID.Text, txtname.Text, txtaddress.Text);
 
-            //Testing For Github
-
 
         }
     }
